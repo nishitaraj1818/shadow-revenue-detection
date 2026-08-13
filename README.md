@@ -57,10 +57,16 @@ The Databricks dashboard provides a visual overview of revenue performance, reve
 ## Project Structure
 
 ```text
-Shadow-Revenue-Detection/
+shadow-revenue-detection/
 │
-├── Shadow_Revenue_Detection_System.ipynb
+├── Datasets/
+│
+├── Screenshots/
+│
 ├── README.md
-├── screenshot 1.png
-├── screenshot 2.png
-└── screenshot 3.png
+│
+├── Screenshot 1.png
+├── Screenshot 2.png
+├── Screenshot 3.png
+│
+└── Shadow_Revenue_Detection.ipynb
