@@ -44,7 +44,7 @@ The Databricks dashboard provides a visual overview of revenue performance, reve
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshot%201.png)
+![Dashboard Overview](screenshot%1.png)
 
 ### Revenue Analysis
 
