@@ -61,8 +61,6 @@ Shadow-Revenue-Detection/
 │
 ├── Shadow_Revenue_Detection_System.ipynb
 ├── README.md
-│
-└── output/
-    ├── screenshot 1.png
-    ├── screenshot 2.png
-    └── screenshot 3.png
+├── screenshot 1.png
+├── screenshot 2.png
+└── screenshot 3.png
