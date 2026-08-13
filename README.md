@@ -44,15 +44,15 @@ The Databricks dashboard provides a visual overview of revenue performance, reve
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshot%1.png)
+![Dashboard Overview](Screenshot%201.png)
 
 ### Revenue Analysis
 
-![Revenue Analysis](screenshot%202.png)
+![Revenue Analysis](Screenshot%202.png)
 
 ### Payment Integrity & Revenue Leakage
 
-![Payment Integrity and Revenue Leakage](output/screenshot%203.png)
+![Payment Integrity and Revenue Leakage](Screenshot%203.png)
 
 ## Project Structure
 
