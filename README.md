@@ -2,15 +2,20 @@
 
 ## Project Overview
 
-This project focuses on identifying potential revenue leakage and payment integrity issues using Databricks, PySpark, and data analysis.
+This project focuses on identifying potential revenue leakage and payment integrity issues using Databricks, PySpark, SQL, and data analysis.
 
 The system analyzes revenue-related data to identify:
+
 - Missing Payments
 - Orphan Payments
 - Price Mismatches
 - Shadow Revenue
 - Revenue Leakage
 - Revenue Integrity
+
+## Objective
+
+The main objective of this project is to analyze differences between expected, ordered, and collected revenue and identify areas where revenue may be lost or incorrectly recorded.
 
 ## Technologies Used
 
@@ -22,7 +27,7 @@ The system analyzes revenue-related data to identify:
 
 ## Key Metrics
 
-The dashboard provides insights into:
+The analysis provides insights into:
 
 - Expected Revenue
 - Order Revenue
@@ -35,7 +40,19 @@ The dashboard provides insights into:
 
 ## Dashboard
 
-The Databricks dashboard provides a visual overview of revenue performance and potential revenue leakage.
+The Databricks dashboard provides a visual overview of revenue performance, revenue leakage, and payment integrity issues.
+
+### Dashboard Overview
+
+![Dashboard Overview](output/screenshot%201.png)
+
+### Revenue Analysis
+
+![Revenue Analysis](output/screenshot%202.png)
+
+### Payment Integrity & Revenue Leakage
+
+![Payment Integrity and Revenue Leakage](output/screenshot%203.png)
 
 ## Project Structure
 
@@ -43,4 +60,9 @@ The Databricks dashboard provides a visual overview of revenue performance and p
 Shadow-Revenue-Detection/
 │
 ├── Shadow_Revenue_Detection_System.ipynb
-└── README.md
+├── README.md
+│
+└── output/
+    ├── screenshot 1.png
+    ├── screenshot 2.png
+    └── screenshot 3.png
